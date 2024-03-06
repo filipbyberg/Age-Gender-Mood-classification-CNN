@@ -52,6 +52,8 @@ Our age prediction CNN model shall be defined and trained by:
 
 The combination of all trained models put to use is located in Test.ipynb
 
+Unfortunatley we did not get to use the application as intended in a store due to privacy for customers. However, the classification works.
+
 ## Baselines
 The following trained models are included in Pretrained (Google collab):
 - `Age_model_pretrained.h5'
