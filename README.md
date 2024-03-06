@@ -52,7 +52,10 @@ Our age prediction CNN model shall be defined and trained by:
 
 The combination of all trained models put to use is located in Test.ipynb
 
-Unfortunatley we did not get to use the application as intended in a store due to privacy for customers. However, the classification works.
+Unfortunatley we did not get to use the application as intended in a store due to privacy for customers. The accuracy of the trained model can be seen here:
+
+![image](https://github.com/filipbyberg/Age-Gender-Mood-classification-CNN/assets/80341025/df5dea71-4ba4-444a-be72-67c187b1a245)
+
 
 ## Baselines
 The following trained models are included in Pretrained (Google collab):
